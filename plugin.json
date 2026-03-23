@@ -1,136 +1,201 @@
 {
   "metadata": {
-    "name": "VBook Truyện Tranh Cá Nhân",
+    "name": "VBook Truyện Tranh Cá Nhân+",
     "author": "Tran Tuan Khoa",
-    "description": "Tổng hợp truyện tranh Việt Nam và các nguồn Manhua/Manhwa 18+ (Trung, Anh, Hàn) hỗ trợ tốt cho Extension Dịch.",
-    "version": 3
+    "description": "Nguồn truyện tranh đa ngôn ngữ.",
+    "version": 1.0,
+    "last_update": "2026-03-23"
   },
   "data": [
     {
-      "name": "TruyenQQ",
+      "name": "[VI] TruyenQQ",
       "author": "Darkrai9x",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenqq/plugin.zip",
       "source": "https://truyenqqto.com",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam", "manga", "manhwa"]
     },
     {
-      "name": "NetTruyen (Work)",
+      "name": "[VI] NetTruyen",
       "author": "Darkrai9x",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/nettruyen/plugin.zip",
-      "source": "https://nettruyen.work",
+      "source": "https://nettruyenww.com",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam", "hot"]
     },
     {
-      "name": "BlogTruyen",
+      "name": "[VI] BlogTruyen",
       "author": "Darkrai9x",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/blogtruyen/plugin.zip",
       "source": "https://blogtruyenmoi.com",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam"]
     },
     {
-      "name": "SayTruyen",
+      "name": "[VI] SayTruyen",
       "author": "lethituyen",
       "path": "https://raw.githubusercontent.com/lethituyen/vbooks-extension/master/saytruyen/plugin.zip",
       "source": "https://saytruyen.tv",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam"]
     },
     {
-      "name": "Cửu Truyện",
+      "name": "[VI] CuuTruyen",
       "author": "dat-bi",
       "path": "https://raw.githubusercontent.com/dat-bi/ext-vbook/main/cuutruyen/plugin.zip",
       "source": "https://cuutruyen.net",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam"]
     },
     {
-      "name": "CManga",
-      "author": "hishirooo",
-      "path": "https://raw.githubusercontent.com/hishirooo/vbook-ext/master/cmanga/plugin.zip",
-      "source": "https://cmanga.biz",
+      "name": "[VI] TruyenHay24h",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
+      "source": "https://truyenhay24h.com",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam", "madara"]
     },
     {
-      "name": "OtakuSan",
-      "author": "Darkrai9x",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/otakusan/plugin.zip",
-      "source": "https://otakusan.net",
+      "name": "[VI] TruyenFullViet",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
+      "source": "https://truyenfullviet.net",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam", "madara"]
     },
     {
-      "name": "Bảo Tàng Truyện",
-      "author": "Moleys",
-      "path": "https://raw.githubusercontent.com/Moleys/vbook-ext/main/baotangtruyen/plugin.zip",
-      "source": "https://baotangtruyen.com",
-      "version": 1,
-      "locale": "vi",
-      "type": "comic"
-    },
-    {
-      "name": "Thiên Thai Truyện",
+      "name": "[18+] Thiên Thai Truyện",
       "author": "Custom",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
       "source": "https://thienthaitruyen8.com",
       "version": 1,
       "locale": "vi",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["vietnam", "nsfw", "manhwa18"]
     },
     {
-      "name": "Baozimh (Trung)",
+      "name": "[ZH] Baozimh",
       "author": "Darkrai9x",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/baozimh/plugin.zip",
       "source": "https://baozi.cc",
       "version": 1,
       "locale": "zh",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["china", "manhua", "raw"]
     },
     {
-      "name": "Colamanga (Trung)",
+      "name": "[ZH] Colamanga",
       "author": "Darkrai9x",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/colamanga/plugin.zip",
       "source": "https://www.colamanga.com",
       "version": 1,
       "locale": "zh",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["china", "manhua"]
     },
     {
-      "name": "Toonily (Anh 18+)",
+      "name": "[ZH] Manhuagui",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
+      "source": "https://www.manhuagui.com",
+      "version": 1,
+      "locale": "zh",
+      "type": "comic",
+      "tags": ["china", "manhua"]
+    },
+    {
+      "name": "[EN] MangaDex",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bato/plugin.zip",
+      "source": "https://mangadex.org",
+      "version": 1,
+      "locale": "en",
+      "type": "comic",
+      "tags": ["global", "manga"]
+    },
+    {
+      "name": "[EN] MangaKakalot",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
+      "source": "https://mangakakalot.to",
+      "version": 1,
+      "locale": "en",
+      "type": "comic",
+      "tags": ["global", "manga"]
+    },
+    {
+      "name": "[EN] MangaSee",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
+      "source": "https://mangasee123.com",
+      "version": 1,
+      "locale": "en",
+      "type": "comic",
+      "tags": ["global", "manga"]
+    },
+    {
+      "name": "[18+] Toonily",
       "author": "Custom",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
       "source": "https://toonily.com",
       "version": 1,
       "locale": "en",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["english", "nsfw", "manhwa18"]
     },
     {
-      "name": "Manhwa18 (Anh/Hàn 18+)",
+      "name": "[18+] Manhwa18",
       "author": "Custom",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
       "source": "https://manhwa18.cc",
       "version": 1,
       "locale": "en",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["english", "nsfw", "manhwa18"]
     },
     {
-      "name": "Bato.to (Đa ngôn ngữ)",
+      "name": "[KR/EN] AsuraScans",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
+      "source": "https://asurascans.com",
+      "version": 1,
+      "locale": "en",
+      "type": "comic",
+      "tags": ["korea", "manhwa"]
+    },
+    {
+      "name": "[KR/EN] ReaperScans",
+      "author": "Custom",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/madara/plugin.zip",
+      "source": "https://reaperscans.com",
+      "version": 1,
+      "locale": "en",
+      "type": "comic",
+      "tags": ["korea", "manhwa"]
+    },
+    {
+      "name": "[MULTI] Bato.to",
       "author": "Darkrai9x",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bato/plugin.zip",
       "source": "https://bato.to",
       "version": 1,
       "locale": "en",
-      "type": "comic"
+      "type": "comic",
+      "tags": ["global", "multi-language"]
     }
   ]
 }
